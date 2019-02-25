@@ -1,0 +1,8 @@
+Skeletor,20,2,2,1,3,enemySkeletor.jpg,
+ArmourSkeleton,30,2,5,1,3,armourSkeletor.jpg,
+AssaultSkeleton,35,4,3,2,2,assaultSkeletor.jpg,
+MagicSkeleton,20,6,3,4,2,magicSkeletor.jpg,
+Paladin,60,3,5,4,4,paladin.jpg,
+Sorceress,50,6,4,7,3,sorceress.jpg,
+Troll SpearThrower,80,7,6,8,6,trollSpear.jpg,
+Dragon,140,10,14,12,9,dragon.jpg,
